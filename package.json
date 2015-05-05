@@ -1,0 +1,35 @@
+{
+  "name": "ports-express",
+  "version": "0.0.0",
+  "description": "It is a database of worlds ports to be used to disctance app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vrodnenok/ports-express.git"
+  },
+  "keywords": [
+    "Ports",
+    "locations"
+  ],
+  "author": "vrodnenok",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/vrodnenok/ports-express/issues"
+  },
+  "dependencies": {
+    "express": "~4.12.3",
+    "mongoose": "~4.0.2",
+    "morgan": "",
+    "body-parser": "",
+    "method-override": "",
+    "compression": "",
+    "ejs": "",
+    "express-session": "~1.11.1",
+    "passport": "~0.2.1",
+    "passport-local": "~1.0.0",
+    "connect-flash": "~0.1.1"
+  }
+}
